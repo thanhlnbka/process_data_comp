@@ -1,0 +1,5 @@
+python3 1_merge_blm_same_date.py
+python3 2_merge_wl_same_date.py
+python3 3_merge_csv_total_same_date.py
+python3 4_merge_wl_blm_csv.py
+python3 5_merge_results_predict.py
